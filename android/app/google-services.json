@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162774963400",
+    "project_id": "eattemad-project",
+    "storage_bucket": "eattemad-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162774963400:android:1ddc4fb3175f82653441fd",
+        "android_client_info": {
+          "package_name": "com.example.eattemad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn01qrC4Nsyl2Zoqi7R_i61gdquzOz93M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
